@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Davi
 
-<!--
-**davirezo/davirezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objetivo: Estágio em Desenvolvimento FullStack
 
-Here are some ideas to get you started:
+Sou estudante de programação com foco em Java e FullStack, atualmente estudando Java. Estou construindo projetos práticos para consolidar meus conhecimentos e conquistar meu primeiro estágio na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que estou estudando
+
+* ☕ Java (POO, JDBC, DAO)
+* 🗄️ MySQL
+* 🌱 Spring Boot 
+* 🔧 Git & GitHub
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [fksdavi@gmail.com](mailto:fksdavi@gmail.com)
+* 💼 GitHub: [https://github.com/davirezo](https://github.com/davirezo)
+
+---
+
+⭐ Em constante aprendizado e evolução!
