@@ -19,7 +19,7 @@ Sou estudante de programação com foco em Java e FullStack, atualmente estudand
 
 * 📧 Email: [fksdavi@gmail.com](mailto:fksdavi@gmail.com)
 * 💼 GitHub: [https://github.com/davirezo](https://github.com/davirezo)
-
+* Telefone: (61) 98229-9093
 ---
 
 ⭐ Em constante aprendizado e evolução!
