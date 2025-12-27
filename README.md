@@ -9,9 +9,9 @@ Sou estudante de programação com foco em Java e FullStack, atualmente estudand
 ## 🚀 Tecnologias que estou estudando
 
 * ☕ Java (POO, JDBC, DAO)
-* 🗄️ MySQL
+* 🗄️ MySQL | PostgreSQL | MongoDB
 * 🌱 Spring Boot 
-* 🔧 Git & GitHub
+* 🔧 Git | GitHub | Postman
 
 ---
 
