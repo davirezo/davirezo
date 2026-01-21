@@ -1,25 +1,27 @@
-# 👋 Olá, eu sou o Davi
+👋 Olá, eu sou o Davi
 
 🎯 Objetivo: Estágio em Desenvolvimento FullStack ou Back-End
 
 Sou estudante de programação com foco em Java e FullStack, atualmente estudando Java. Estou construindo projetos práticos para consolidar meus conhecimentos e conquistar meu primeiro estágio na área.
 
----
+🚀 Tecnologias que estou estudando
 
-## 🚀 Tecnologias que estou estudando
+☕ Java (POO, JDBC, DAO)
 
-* ☕ Java (POO, JDBC, DAO)
-* 🗄️ MySQL | PostgreSQL | MongoDB
-* 🌱 Spring Boot 
-* 🔧 Git | GitHub | Postman
+🗄️ MySQL | PostgreSQL | MongoDB
 
----
+🌱 Spring Boot
 
-## 📫 Contato
+🔧 Git | GitHub | Postman
 
-* 📧 Email: [fksdavi@gmail.com](mailto:fksdavi@gmail.com)
-* 💼 GitHub: [https://github.com/davirezo](https://github.com/davirezo)
-* Telefone: (61) 98229-9093
----
+📫 Contato
+
+📧 Email: fksdavi@gmail.com
+
+💼 GitHub: https://github.com/davirezo
+
+💼 LinkedIn: https://www.linkedin.com/in/davi-rezo-a877a133b
+
+📱 Telefone: (61) 98229-9093
 
 ⭐ Em constante aprendizado e evolução!
